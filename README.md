@@ -4,8 +4,9 @@
 
 ## 安装
 
-- **从本地安装**：打开 MyGo Music → 设置 → 插件 → `+` → 从本地安装，选择本项目文件夹（或执行 `npm run pack` 后选择 `dist/netease-plus-*.zip`）。
-- **从 GitHub 安装**（推送到公开仓库并添加 `mygo-music-plugin` topic 后）：在 MyGo Music → 设置 → 插件 → `+` → 从 GitHub 安装，填入 `<owner>/mygo-music-netease-plus`。
+- **从 GitHub 安装**：打开 MyGo Music → 设置 → 插件 → `+` → 从 GitHub 安装，填入 `lng205/mygo-music-netease-plus`（或 `https://github.com/lng205/mygo-music-netease-plus`），也可直接打开安装链接：
+  `mygo-music://install-plugin?repo=lng205/mygo-music-netease-plus`
+- **从本地安装**：选择本项目文件夹，或执行 `npm run pack` 后选择 `dist/netease-plus-*.zip`。
 
 ## 新增与增强功能
 
